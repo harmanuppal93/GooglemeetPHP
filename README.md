@@ -1,7 +1,8 @@
 # GooglemeetPHP
 
+<h2>Google meet with PHP</h2>
 
-Need to update crendentials in credentials folders
+<b>Need to update crendentials in credentials folders</b>
 
 How to get Google Client ID and Client Secret?
 1. Go to the Google Developers Console.
